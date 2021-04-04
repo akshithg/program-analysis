@@ -1,4 +1,4 @@
-# llvm-pass-skeleton
+# skeleton function pass
 
 ## Notes
 The are basically two types of passes.
