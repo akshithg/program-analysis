@@ -31,10 +31,11 @@ mkdir build && cd build && cmake .. && make
 cd ../..
 ```
 
+
 ## Run:
 
 ```sh
-clang -Xclang -load -Xclang skeleton-function-pass/build/skeleton/libSkeletonPass.so ./sa
+clang -Xclang -load -Xclang skeleton-function-pass/build/skeleton/libSkeletonPass.so ./sample/prog_1.c
 ```
 
 
